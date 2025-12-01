@@ -1,8 +1,7 @@
 # Mary-s-Portfolio
 This is my CS105 Portfolio!
 
-# Firstname Lastname
-Mary Rehkemper
+# Mary Cate Rehkemper
 
 ### About Me
 I am currently a Sophomore here at Loyola. I am a Bio Psych major in hopes of becoming an occupational therapist. I am on the Womens Lacrosse team and play defense. 
