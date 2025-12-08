@@ -26,6 +26,10 @@ This is my Course Grade Calculator that I coded through Python! I struggled a lo
 This is my Quarie comapring customers in ascending order that I created through Microsoft Access! I loved this Microsoft Access module, and I can see myself using this in the real world. In this project, I connected two tables by using a quarie. I connecte dthe two tables by the customer and their Student ID. I struggled a little bit connecting the correct piece of information in when creating the actual quarie, but once I connected the right thing it worked perfectly. This Microsoft Access module was my favorite module!
 
 ***
-#### Project 3 Title
-- ![Image](link-to-image)
-- Write-up here
+#### Project 3: Microsoft Access Project Transcripts
+![Microsoft Access](/Images
+/project 3.PNG)
+![Microsoft Access 2](/Images
+/project 3.3.PNG)
+These are two students project transcripts that I created through Microsoft Access! These grades consist of their fall and spring courses. The grades add up to their average GPA. I struggled getting the average of their GPA and that being put on the actual transcript, but it turned out to just be something wrong with my own Microsoft Access. I really enjoyed this project because it was cool to create a transcript that looked exactly the same to what I recieved in elementary and middle school. I learned to appreciate using Microsoft Access in the real world, because I can see how teachers use this. 
+
