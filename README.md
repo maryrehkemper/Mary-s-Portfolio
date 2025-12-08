@@ -20,7 +20,7 @@ Loyola University Maryland
 #### Project 1: Python Course Grade Calculator
 ![Course Grade Calculator](Images/Project 1.PNG)
 ![Second half of Course Grade Calculator](Images/Project 1.1.PNG)
-[link to jdoodle](https:wwwjdoodlecomgaqzslxEHfkP2zf8kUaIvfnw%3D%3D)
+[link to jdoodle](/www.jdoodle.com/ga/qzslxEHfkP2zf8kUaIvfnw%3D%3D)
 
 #### Initial project idea: 
 This Course Grade Calculator allows students to put in their desired weights for 4 quizzes and 2 assesments (assignment weights must add up to 100), then they can insert their 4 quiz grades and 2 assesment grades to figure out their final letter grade in the course. This is important for a student to be able to figure out, so they can understand what work they need to do to obe able to finish with their desired grade. 
