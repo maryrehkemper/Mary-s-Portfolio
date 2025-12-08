@@ -1,7 +1,10 @@
 # Mary-s-Portfolio
 This is my CS105 Portfolio!
 
-# Mary Cate Rehkemper
+# Mary Cate Rehkemper\
+Contact Info: 
+410-816-6008
+mcrehkemper@loyola.edu
 
 ### About Me
 I am currently a Sophomore here at Loyola. I am a Bio Psych major in hopes of becoming an occupational therapist. I am on the Womens Lacrosse team and play defense. 
@@ -13,7 +16,8 @@ Loyola University Maryland
 ### Projects
 
 #### Project 1 Title
-- ![Image](link-to-image)
+![Course Grade Calculator](Images/Project 1.PNG)
+![Second half of Course Grade Calculator](Images/Project 1.1.PNG)
 - [Read the Report](link-to-report)
 
 ***
