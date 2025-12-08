@@ -20,9 +20,10 @@ Loyola University Maryland
 This is my Course Grade Calculator that I coded through Python! I struggled a lot with the Python module, but I chose to display this project because once I understood Python, I was super proud of myself and can understand why people find coding useful in the real world. This Course Grade Calculator allows someone to enter their desires quiz and assesment weights adding up to 100, and then enter their 4 quiz scores and assesment scores to add up their final grade overall. I found this very useful and tried to use it to calculate my current course grades everall! The biggest obstacle I came across was connecting the overall grade letter with the overall percentage of the grade. Even hough the Python module was a challenge for me, by the end of it I really got the hang of it and found it kind of fun to code!
 
 ***
-#### Project 2 Title
-- ![Image](link-to-image)
-- Write-up here
+#### Project 2: Microsoft Access Queries
+![Access Quarie](Images/project 2.PNG)
+![Part 2](Images/project 2.2.PNG)
+This is my Quarie comapring customers in ascending order that I created through Microsoft Access! I loved this Microsoft Access module, and I can see myself using this in the real world. In this project, I connected two tables by using a quarie. I connecte dthe two tables by the customer and their Student ID. I struggled a little bit connecting the correct piece of information in when creating the actual quarie, but once I connected the right thing it worked perfectly. This Microsoft Access module was my favorite module!
 
 ***
 #### Project 3 Title
